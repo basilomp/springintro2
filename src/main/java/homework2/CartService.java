@@ -1,4 +1,4 @@
-package assignment2;
+package homework2;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -10,8 +10,8 @@ public class CartService {
     @Autowired
     private Cart cart;
 
-    public Scanner scanner;
-    public String command;
+    private Scanner scanner;
+    private String command;
 
 
     private Long identifyIdFromInput() {

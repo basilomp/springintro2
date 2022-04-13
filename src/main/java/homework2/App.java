@@ -1,4 +1,4 @@
-package assignment2;
+package homework2;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

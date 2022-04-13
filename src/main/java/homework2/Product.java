@@ -1,4 +1,4 @@
-package assignment2;
+package homework2;
 
 import org.springframework.stereotype.Component;
 
